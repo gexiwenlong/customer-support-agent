@@ -1,0 +1,44 @@
+{
+  "tickets": [
+    {
+      "id": "T001",
+      "message": "i cant login to my acount. it says password wrong but i know its correct!!!"
+    },
+    {
+      "id": "T002",
+      "message": "i was charged twice for my subscription this month. pls refund asap."
+    },
+    {
+      "id": "T003",
+      "message": "what are your business hours? im in PST timezone."
+    },
+    {
+      "id": "T004",
+      "message": "your product is TERRIBLE. want full refund NOW."
+    },
+    {
+      "id": "T005",
+      "message": "how do i export my data to csv? cant find the button."
+    },
+    {
+      "id": "T006",
+      "message": "my invoice shows $49.99 but i signed up for $29.99 plan."
+    },
+    {
+      "id": "T007",
+      "message": "do you offer student discounts?"
+    },
+    {
+      "id": "T008",
+      "message": "app keeps crashing when i try to upload photos. iphone 14."
+    },
+    {
+      "id": "T009",
+      "message": "i want to speak to a manager. your support is USELESS."
+    },
+    {
+      "id": "T010",
+      "message": "when will my refund appear? its been 5 days."
+    }
+  ]
+}
